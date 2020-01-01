@@ -1,2 +1,2 @@
-//This project simulates the storage of a phone book with each person and their corresponding phone numbers representing a node 
+//This project simulates a phone book with each person and their corresponding phone numbers representing a node 
 //that is stored in a splay tree.
